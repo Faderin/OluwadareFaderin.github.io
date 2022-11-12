@@ -50,7 +50,6 @@ nav .nav_list{
     display: flex;
     height: 3rem;
     min-width: 34rem;
-    /* max-width: 35rem; */
     transition: all 0.3s;
 }
 
