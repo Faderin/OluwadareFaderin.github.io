@@ -127,6 +127,7 @@ nav .cta-btn {justify-self: right}
     /* grid-template-columns: 0.6fr 1fr; */
     /* grid-gap: 8rem; */
     justify-content: space-evenly;
+    justify-self: flex-start;
     padding: 0.5rem;
 	padding: 2rem 12%;
     margin: 0 auto;
@@ -141,9 +142,12 @@ nav .cta-btn {justify-self: right}
     grid-column: 1/2;
     max-width: 50%;
     border-radius: 100rem;
+    justify-self: flex-start;
+    padding: 20px;
 }
 .main_intro_p {
     grid-column: 2/3;
+    padding: 20px;
 } 
 .main_intro .flex{
     display: flex !important;
