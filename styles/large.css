@@ -22,7 +22,7 @@ body {
 header{
     background-color: var(--primary-peach);
     margin: -1rem auto;
-    position: fixed;
+    
 }
 
 nav, section{
